@@ -1,0 +1,24 @@
+header{
+    background-color: aquamarine;
+    margin: 0px;
+}
+.elso{
+    list-style-type: square;
+}
+.masodik{
+    list-style-type: lower-alpha;
+    
+}
+.harmadik{
+    list-style-image: url('kepek/pipa.jpg');
+    padding: 2;
+}
+ol {
+    background: #ff9999;
+    padding: 40px;
+  }
+  ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+  }
